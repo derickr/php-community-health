@@ -144,7 +144,7 @@ The following four points shall be taken into account for any incident:
 
 Additionally, it shall be assumed that both parties (the accuser and the accused) are acting as reasonable people until proven otherwise. This means that best intentions shall be assumed unless significant evidence to the contrary is found.
 
-Note: reporting an incident does not absolve a person of the requirement to abide by the CoC. This means that the victim of harassment is not entitled to "harass back". 
+Note: reporting an incident does not absolve a person of the requirement to abide by the Code of Conduct. This means that the victim of harassment is not entitled to "harass back". 
 
 
 ==== Community Mediation Team ====
@@ -175,7 +175,7 @@ Additionally, once per quarter (every 3 months), the Community Mediation Team sh
 
 The intention that nothing in this section is ever going to be needed. In extreme cases, when the Community Mediation Team finds that a certain project member continues to violate either the Code of Conduct or Constructive Contributing Guidelines, more punitive action **might** be required.
 
-The Community Mediation Team should make every reasonable attempt to defuse the situation without having to resort to punitive action. This includes establishing a meaningful discussion around the incident, giving the accused offender the chance to apologize (privately or publicly, depending on the incident) or determining that no action is necessary even if the CoC was violated.
+The Community Mediation Team should make every reasonable attempt to defuse the situation without having to resort to punitive action. This includes establishing a meaningful discussion around the incident, giving the accused offender the chance to apologize (privately or publicly, depending on the incident) or determining that no action is necessary even if the Code of Conduct was violated.
 
 In the event that additional action is required, it may include:
 
@@ -184,13 +184,13 @@ In the event that additional action is required, it may include:
   * Revert/reject wiki edits, issues and other contributions
   * Issue temporary ban (no more than 7 days)
 
-If the Community Mediation Team (with 4/5th majority as described above) determines that punitive action is required, an RFC to the general project is created. Once the RFC is issued, the temporary ban's lifetime will be tied to the RFC's lifetime (will expire when the vote is finished). All corrective action RFCs will require 2/3 majority to affect the ban. However, this temporary ban shall not include the //internals@php.net// mailing list, provided that the accused party remains civil and reasonably within the CoC to ensure that they receive a fair representation during the ban discussion.
+If the Community Mediation Team (with 4/5th majority as described above) determines that punitive action is required, an RFC to the general project is created. Once the RFC is issued, the temporary ban's lifetime will be tied to the RFC's lifetime (will expire when the vote is finished). All corrective action RFCs will require 2/3 majority to affect the ban. However, this temporary ban shall not include the //internals@php.net// mailing list, provided that the accused party remains civil and reasonably within the Code of Conduct to ensure that they receive a fair representation during the ban discussion.
 
 Punitive action may include removal of commit karma, mailing list write access as well as disabling of the associated PHP.net account. Depending on the particular infraction, one, many or all access may be suspended.
 
 A new address/account which is believed to be used by an already banned individual does not require a RFC to effect provided there is reasonable evidence to support the correlation.
 
-Bans (temporary or permanent) should only be used in egregious cases where a pattern of disregard for the CoC is demonstrated.
+Bans (temporary or permanent) should only be used in egregious cases where a pattern of disregard for the Code of Conduct is demonstrated.
 
 === Appeals to Punitive Action ===
 
@@ -202,7 +202,7 @@ It is worth noting that this may be used as a technique to attempt to disclose t
 
 === Conflict of Interest ===
 
-In the event that a CoC violation is reported against a Conflict Resolution Team member, the remaining members shall investigate and raise the concern to internals@php.net, even if they determine no action is to be taken. 
+In the event that a Code of Conduct violation is reported against a Conflict Resolution Team member, the remaining members shall investigate and raise the concern to internals@php.net, even if they determine no action is to be taken. 
 
 === Accountability ===
 
@@ -219,25 +219,25 @@ Any changes to the text of the Code of Conduct, or updating the version of it sh
 
 === Activities on a php.net property ===
 
-Activities on a php.net property shall always be considered "representing the project" and hence fall under the jurisdiction of the CoC and Community Mediation Team. This includes any php.net mailing list. 
+Activities on a php.net property shall always be considered "representing the project" and hence fall under the jurisdiction of the Code of Conduct and Community Mediation Team. This includes any php.net mailing list. 
 
 === Activities at a technology conference ===
 
-While at a technology conference, the CoC is only considered to apply if and only if the person is demonstrably representing the project.
+While at a technology conference, the Code of Conduct is only considered to apply if and only if the person is demonstrably representing the project.
 
-For example, merely speaking at a conference about PHP is not enough to be "representing the project". However, when speaking about the project itself (meaning internals functions, etc), while the talk is occurring the CoC shall apply.
+For example, merely speaking at a conference about PHP is not enough to be "representing the project". However, when speaking about the project itself (meaning internals functions, etc), while the talk is occurring the Code of Conduct shall apply.
 
-This does not intend to limit the CoC applicability to only during a talk, however any violation that happens at a conference shall be assumed to **not** be representing the project unless there is significant and obvious evidence to the contrary.
+This does not intend to limit the Code of Conduct applicability to only during a talk, however any violation that happens at a conference shall be assumed to **not** be representing the project unless there is significant and obvious evidence to the contrary.
 
 === Activities on a social network ===
 
-On social networks, the CoC is only considered to apply if the context of the conversation makes it clear that the person represents the PHP project.
+On social networks, the Code of Conduct is only considered to apply if the context of the conversation makes it clear that the person represents the PHP project.
 
 For example, merely having "PHP contributor" in an about or bio is not enough to be "representing the project". However, a conversation about the PHP project itself (including RFCs, etc) is enough to justify "representation".
 
 === Other ===
 
-In all cases, if an issue seems reasonably connected to a project matter, the CoC may apply depending on how strongly the connection is.
+In all cases, if an issue seems reasonably connected to a project matter, the Code of Conduct may apply depending on how strongly the connection is.
 
 For example, if one person is involved in a heated discussion on internals@, and then immediately after starts harassing another participant on another channel with similar tone, the harassment may be considered a violation.
 
