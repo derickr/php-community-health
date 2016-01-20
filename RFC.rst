@@ -89,7 +89,7 @@ Below are several suggestions:
   * Post infrequently. Take the time to read the existing thread. In general, don't send more than one post per hour about a single topic. 
   * Write clear and unambiguous prose. It is better to be descriptive than to be concise.
   * Write as much as is necessary, but as little as you can get away with. 
-  * Suggest improvements to the RFC, don't just shoot it down.
+  * Suggest improvements to the RFC, don't just shoot it down. You can suggest improvements to an RFC even if you would not vote to support the RFC.
   * Don't use hyperboles to defend your arguments.
   * Don't send a "quick email", especially during a heated debate.
   * Think before you send "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
