@@ -113,8 +113,8 @@ In the event that an incident is reported the following process should be follow
   * The Community Mediation Team is notified of an incident through //codeofconduct@php.net//
   * The Community Mediation Team should pick a case handler to deal with each specific incident
   * A team member documents the issue as best as possible, researching any supporting materials necessary
-  * A team member shall make contact with the accused offending party and document their side as much as possible
-  * A team member shall make every reasonable attempt to mediate and defuse the situation without needing to resort to punishment
+  * A team member shall make contact with the accused transgressing party and document their side as much as possible
+  * A team member shall make every reasonable attempt to mediate and defuse the situation without needing to resort to taking action against the accused
 
 If all reasonable efforts to reach a mediated agreement fail and other action is deemed absolutely necessary as a last resort:
 
@@ -130,7 +130,7 @@ During the investigation the reporter(s) should respect the Community Mediation 
 
 All incidents are to be kept in the strictest form of confidentiality. The Community Mediation Team shall be the only group to know about the reporter and the precise details of any incident. Any communication outside of the team (including fact-finding, investigation, documentation, etc.) shall not include identifying information as to the reporter unless agreed by the reporter or is otherwise public.
 
-Additionally, reasonable attempts shall be made as to the confidentiality to the accused person. This includes transparency reports where no significant action is taken (due to lack of evidence or that the Community Mediation Team determines it wasn't significant enough to warrant punitive action).
+Additionally, reasonable attempts shall be made as to the confidentiality to the accused person. This includes transparency reports where no significant action is taken (due to lack of evidence or that the Community Mediation Team determines it wasn't significant enough to warrant action against the accused).
 
 
 === Reasonable Person Test ===
@@ -167,17 +167,17 @@ There is no specified term limit, but if either the PHP project or the other mem
 
 === Transparency ===
 
-Any punitive action taken by the Conflict Resolution Team shall be reported to internals@php.net, including a summary of the incident and the action taken. The summary of the incident should include supporting evidence and justification for the decision.
+Any action taken by the Conflict Resolution Team shall be reported to internals@php.net, including a summary of the incident and the action taken. The summary of the incident should include supporting evidence and justification for the decision.
 
 Reasonable efforts should be taken to ensure the privacy of the reporting party. The only two exceptions would be if the incident was public or if the reporting party agrees to be identified. 
 
-Additionally, once per quarter (every 3 months), the Community Mediation Team shall produce an aggregated report as to the number of times incidents were reported, and the outcomes of the incidents, even if no punitive measures were taken.
+Additionally, once per quarter (every 3 months), the Community Mediation Team shall produce an aggregated report as to the number of times incidents were reported, and the outcomes of the incidents, even if no action was taken.
 
 ==== Potential Actions ====
 
-The intention that nothing in this section is ever going to be needed. In extreme cases, when the Community Mediation Team finds that a certain project member continues to violate either the Code of Conduct or Constructive Contributing Guidelines, more punitive action **might** be required.
+The intention that nothing in this section is ever going to be needed. In extreme cases, when the Community Mediation Team finds that a certain project member continues to violate either the Code of Conduct or Constructive Contributing Guidelines, more action **might** be required.
 
-The Community Mediation Team should make every reasonable attempt to defuse the situation without having to resort to punitive action. This includes establishing a meaningful discussion around the incident, giving the accused offender the chance to apologize (privately or publicly, depending on the incident) or determining that no action is necessary even if the Code of Conduct was violated.
+The Community Mediation Team should make every reasonable attempt to defuse the situation without having to resort to action against the accused. This includes establishing a meaningful discussion around the incident, giving the accused transgresser the chance to apologize (privately or publicly, depending on the incident) or determining that no action is necessary even if the Code of Conduct was violated.
 
 In the event that additional action is required, it may include:
 
@@ -186,7 +186,7 @@ In the event that additional action is required, it may include:
   * Revert/reject wiki edits, issues and other contributions
   * Issue temporary ban (no more than 7 days)
 
-If the Community Mediation Team (with 4/5th majority as described above) determines that punitive action is required, an RFC to the general project is created. Once the RFC is issued, the temporary ban's lifetime will be tied to the RFC's lifetime (will expire when the vote is finished). All corrective action RFCs will require 2/3 majority to affect the ban. However, this temporary ban shall not include the //internals@php.net// mailing list, provided that the accused party remains civil and reasonably within the Code of Conduct to ensure that they receive a fair representation during the ban discussion.
+If the Community Mediation Team (with 4/5th majority as described above) determines that action is required, an RFC to the general project is created. Once the RFC is issued, the temporary ban's lifetime will be tied to the RFC's lifetime (will expire when the vote is finished). All corrective action RFCs will require 2/3 majority to affect the ban. However, this temporary ban shall not include the //internals@php.net// mailing list, provided that the accused party remains civil and reasonably within the Code of Conduct to ensure that they receive a fair representation during the ban discussion.
 
 Punitive action may include removal of commit karma, mailing list write access as well as disabling of the associated PHP.net account. Depending on the particular infraction, one, many or all access may be suspended.
 
@@ -194,7 +194,7 @@ A new address/account which is believed to be used by an already banned individu
 
 Bans (temporary or permanent) should only be used in egregious cases where a pattern of disregard for the Code of Conduct is demonstrated.
 
-=== Appeals to Punitive Action ===
+=== Appeals ===
 
 Either party may appeal an action by raising the concern to internals@php.net. PHP project members may then vote to overturn or strengthen the action as necessary (votes require 50%+1 to overturn, and 2/3 majority to strengthen the action).
 
