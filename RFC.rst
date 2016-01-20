@@ -157,7 +157,7 @@ The team shall consist of:
   * At least one person **without** any karma to php-src
   * At least one person with commit karma to php-documentation
 
-As long as the preceding three seats are filled, there is no karma requirement (wiki or otherwise) for the remaining three seats.
+As long as the preceding three seats are filled, there is no karma requirement (wiki or otherwise) for the remaining two seats.
 
 All team members will be elected by RFC vote (requiring 2/3 majority). 
 
