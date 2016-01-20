@@ -179,16 +179,16 @@ The intention is that nothing in this section will ever be needed. In extreme ca
 
 The Community Mediation Team should make every reasonable attempt to defuse the situation without having to resort to action against the accused. This includes establishing a meaningful discussion around the incident, giving the accused transgresser the chance to apologize (privately or publicly, depending on the incident) or determining that no action is necessary even if the Code of Conduct was violated.
 
-In the event that additional action is required, it may include:
+In the event that action is required, it may include:
 
   * Reverting or editing existing commits
   * Rejecting pull requests
   * Reverting or rejecting wiki edits, issues and other contributions
   * Issuing a temporary ban (no more than 7 days)
 
-If the Community Mediation Team (with 4/5th majority as described above) determines that action is required, an RFC to the general project is created. Once the RFC is issued, the temporary ban's lifetime will be tied to the RFC's lifetime (will expire when the vote is finished). All corrective action RFCs will require 2/3 majority to affect the ban. However, this temporary ban shall not include the //internals@php.net// mailing list, provided that the accused party remains civil and reasonably within the Code of Conduct to ensure that they receive a fair representation during the ban discussion.
+If the Community Mediation Team (with 4/5th majority as described above) determines that additional action is required, an RFC to the general project is created. Once the RFC is issued, the original temporary ban's lifetime will be tied to the RFC's lifetime (will expire when the vote is finished). All additional action RFCs will require 2/3 majority to affect the ban. However, the original temporary ban shall not include the //internals@php.net// mailing list, provided that the accused party remains civil and reasonably within the Code of Conduct to ensure that they receive a fair representation during the ban discussion.
 
-Punitive action may include removal of commit karma, mailing list write access as well as disabling of the associated PHP.net account. Depending on the particular infraction, one, many or all access may be suspended.
+Additional action may include removal of commit karma, mailing list write access as well as disabling of the associated PHP.net account. Depending on the particular infraction, one, many or all access may be suspended.
 
 A new address/account which is believed to be used by an already banned individual does not require a RFC to effect provided there is reasonable evidence to support the correlation.
 
