@@ -124,6 +124,8 @@ If all reasonable efforts to reach a mediated agreement fail and other action is
 
 At all steps the reporter(s) should be kept up to date on the process and recommendations that are made.
 
+During the investigation the reporter(s) should respect the Community Mediation Team's workings, and the privacy of the accused offending party. For example, there should be no public shaming of the accused offending party, nor of the Community Mediation Team's way of handling things before a conclusion by the team is reached.
+
 === Confidentiality ===
 
 All incidents are to be kept in the strictest form of confidentiality. The Community Mediation Team shall be the only group to know about the reporter and the precise details of any incident. Any communication outside of the team (including fact-finding, investigation, documentation, etc.) shall not include identifying information as to the reporter unless agreed by the reporter or is otherwise public.
