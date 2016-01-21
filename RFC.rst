@@ -135,7 +135,7 @@ Additionally, reasonable attempts shall be made as to the confidentiality to the
 
 === Reasonable Person Test ===
 
-To determine if the incident is a violation or not, the Conflict Resolution Team shall use the [[https://en.wikipedia.org/wiki/Reasonable_person|Reasonable Person Test]]. 
+To determine if the incident is a violation or not, the Community Mediation Team shall use the [[https://en.wikipedia.org/wiki/Reasonable_person|Reasonable Person Test]]. 
 
 The following four points shall be taken into account for any incident:
 
@@ -167,7 +167,7 @@ There is no specified term limit, but if either the PHP project or the other mem
 
 === Transparency ===
 
-Any action taken by the Conflict Resolution Team shall be reported to internals@php.net, including a summary of the incident and the action taken. The summary of the incident should include supporting evidence and justification for the decision.
+Any action taken by the Community Mediation Team shall be reported to internals@php.net, including a summary of the incident and the action taken. The summary of the incident should include supporting evidence and justification for the decision.
 
 Reasonable efforts should be taken to ensure the privacy of the reporting party. The only two exceptions are if the incident was public or if the reporting party agrees to be identified. 
 
@@ -204,11 +204,11 @@ It is worth noting that this may be used as a technique to attempt to disclose t
 
 === Conflict of Interest ===
 
-In the event that a Code of Conduct violation is reported against a Conflict Resolution Team member, the remaining members shall investigate and raise the concern to internals@php.net, even if they determine no action is to be taken. 
+In the event that a Code of Conduct violation is reported against a Community Mediation Team member, the remaining members shall investigate and raise the concern to internals@php.net, even if they determine no action is to be taken. 
 
 === Accountability ===
 
-The PHP project voting body has the right to overturn any action taken the Conflict Resolution Team by vote (50% + 1 required to overturn).
+The PHP project voting body has the right to overturn any action taken the Community Mediation Team by vote (50% + 1 required to overturn).
 
 === Updating Code Of Conduct ===
 
