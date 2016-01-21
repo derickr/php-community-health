@@ -15,10 +15,10 @@ The goal of this code of conduct is to give a clear signal what is expected of c
 This proposal consists of several parts:
 
   * A general "Code of Conduct", which provides a general overview on what constitutes as unacceptable behaviour
-  * A set of guidelines to foster collaboration on proposed language features through RFCs
+  * A set of guidelines to foster collaboration on proposed language features through RFCs, in addition to the formal RFC process that we already have at https://wiki.php.net/rfc/voting
   * A set of procedures to follow if individuals wish to make complaints if other project members do not follow either the Code of Conduct or the Constructive Collaboration Guidelines.
-  * A Contributor Mediation Team to asses and act upon the complaints as received through the above procedures
-  * Possibilities for strong action if things really go awry regarding a project member. For example, if project members continue to violate the Collaboration Guidelines or Code of Conduct after several rounds of mediation and/or complaints.
+  * A Contributor Mediation Team to assess and act upon the complaints as received through the above procedures
+  * Possibilities for strong action if things really go awry regarding a project member. For example, if project members continue to persistently ignore the Collaboration Guidelines, or violate the Code of Conduct, after several rounds of mediation and/or complaints.
 
 ===== Proposal =====
 
@@ -86,10 +86,10 @@ This section presents a loose collection of guidelines that focus on encouraging
 
 Below are several suggestions:
 
-  * Post infrequently. Take the time to read the existing thread. In general, don't send more than one post per hour about a single topic. 
+  * In general, don't send more than one post per hour about a single topic. Do not "rapid-fire" reply to the active topic, but instead take the time to compose and edit the reply containing all the information you wanted to convey.
   * Write clear and unambiguous prose. It is better to be descriptive than to be concise.
   * Write as much as is necessary, but as little as you can get away with. 
-  * Suggest improvements to the RFC, don't just shoot it down. You can suggest improvements to an RFC even if you would not vote to support the RFC.
+  * Suggest improvements to the RFC, don't just shoot it down. When disagreeing, provide substantial reason instead of just saying "no". Try to outline specific points you disagree with and suggest ways of improvement. And remember, you can suggest improvements to an RFC even if you would not vote to support the RFC.
   * Don't use hyperbole to defend your arguments.
   * Don't send a "quick email", especially during a heated debate.
   * Think before you send "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
@@ -159,7 +159,7 @@ The team shall consist of:
   * At least one person **without** any karma to php-src
   * At least one person with commit karma to php-documentation
 
-As long as the preceding three seats are filled, there is no karma requirement (wiki or otherwise) for the remaining two seats.
+As long as the preceding three seats are filled, by three different people, there is no karma requirement (wiki or otherwise) for the remaining two seats.
 
 All team members will be elected by RFC vote (requiring 2/3 majority). 
 
