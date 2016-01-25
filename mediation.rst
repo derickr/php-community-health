@@ -6,9 +6,9 @@ Mediation Team.
 
 The team shall consist of:
 
-  * At least one person with commit karma to php-src
-  * At least one person **without** any karma to php-src
-  * At least one person with commit karma to php-documentation
+* At least one person with commit karma to php-src
+* At least one person **without** any karma to php-src
+* At least one person with commit karma to php-documentation
 
 As long as the preceding three seats are filled, by three different people,
 there is no karma requirement (wiki or otherwise) for the remaining two seats.
@@ -53,10 +53,10 @@ of Conduct was violated.
 
 In the event that action is required, it may include:
 
-  * Reverting or editing existing commits
-  * Rejecting pull requests
-  * Reverting or rejecting wiki edits, issues and other contributions
-  * Issuing a temporary ban (no more than 7 days)
+* Reverting or editing existing commits
+* Rejecting pull requests
+* Reverting or rejecting wiki edits, issues and other contributions
+* Issuing a temporary ban (no more than 7 days)
 
 If the Community Mediation Team (with 4/5th majority as described above)
 determines that additional action is required, an RFC to the general project

@@ -57,23 +57,20 @@ Having said that, here are the organizational rules:
 
 The next few rules are more some general hints:
 
-   1. If you notice that your posting ratio is much higher than that of other
-      people, double check the above rules. Try to wait a bit longer before
-      sending your replies to give other people more time to digest your answers
-      and more importantly give you the opportunity to make sure that you
-      aggregate your current position into a single mail instead of multiple
-      ones.
-
-   2. Consider taking a step back from a very active thread now and then. Maybe
-      talking to some friends and fellow developers will help in understanding
-      the other opinions better.
-
-   3. Do not top post. Place your answer underneath anyone you wish to quote
-      and remove any previous comment that is not relevant to your post.
-
-   4. Do not high-jack threads, by bringing up entirely new topics. Please
-      create an entirely new thread copying anything you wish to quote into the
-      new thread.
+1. If you notice that your posting ratio is much higher than that of other
+   people, double check the above rules. Try to wait a bit longer before
+   sending your replies to give other people more time to digest your answers
+   and more importantly give you the opportunity to make sure that you
+   aggregate your current position into a single mail instead of multiple
+   ones.
+2. Consider taking a step back from a very active thread now and then. Maybe
+   talking to some friends and fellow developers will help in understanding
+   the other opinions better.
+3. Do not top post. Place your answer underneath anyone you wish to quote
+   and remove any previous comment that is not relevant to your post.
+4. Do not high-jack threads, by bringing up entirely new topics. Please
+   create an entirely new thread copying anything you wish to quote into the
+   new thread.
 
 
 
@@ -98,16 +95,20 @@ When posting to mailing lists or newsgroups, please keep the following in mind:
 Constructive Collaboration Guidelines
 -------------------------------------
 
-This section presents a loose collection of guidelines that focus on encouraging constructive feedback on language proposals (RFCs). RFCs are  used to introduce new features into the language. Currently, too little time is focussed on improving RFCs; instead a lot of effort exists to torpedo RFCs, attack suggestions and opinions. The point of the RFC process to to **improve** PHP — and the RFCs themselves.
+This section presents a loose collection of guidelines that focus on
+encouraging constructive feedback on language proposals (RFCs). RFCs are  used
+to introduce new features into the language. Currently, too little time is
+focussed on improving RFCs; instead a lot of effort exists to torpedo RFCs,
+attack suggestions and opinions. The point of the RFC process to to
+**improve** PHP — and the RFCs themselves.
 
 Below are several suggestions:
 
-  * In general, don't send more than one post per hour about a single topic. Do not "rapid-fire" reply to the active topic, but instead take the time to compose and edit the reply containing all the information you wanted to convey.
-  * Write clear and unambiguous prose. It is better to be descriptive than to be concise.
-  * Write as much as is necessary, but as little as you can get away with. 
-  * Suggest improvements to the RFC, don't just shoot it down. When disagreeing, provide substantial reason instead of just saying "no". Try to outline specific points you disagree with and suggest ways of improvement. And remember, you can suggest improvements to an RFC even if you would not vote to support the RFC.
-  * Don't use hyperbole to defend your arguments.
-  * Don't send a "quick email", especially during a heated debate.
-  * Think before you send "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
-  * Debate the technical issues, and never attack a person's opinion. People will disagree, so be it.
-
+* In general, don't send more than one post per hour about a single topic. Do not "rapid-fire" reply to the active topic, but instead take the time to compose and edit the reply containing all the information you wanted to convey.
+* Write clear and unambiguous prose. It is better to be descriptive than to be concise.
+* Write as much as is necessary, but as little as you can get away with. 
+* Suggest improvements to the RFC, don't just shoot it down. When disagreeing, provide substantial reason instead of just saying "no". Try to outline specific points you disagree with and suggest ways of improvement. And remember, you can suggest improvements to an RFC even if you would not vote to support the RFC.
+* Don't use hyperbole to defend your arguments.
+* Don't send a "quick email", especially during a heated debate.
+* Think before you send "reply". Consider how the other party is likely to feel with the content. And, how you would feel if the same text was directed at you. Emotions are important and difficult, especially when you have never met in person.
+* Debate the technical issues, and never attack a person's opinion. People will disagree, so be it.
