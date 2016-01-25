@@ -25,7 +25,7 @@ This proposal consists of several parts:
 
 * The goal of the documents (this part)
 * Contributor `Guidelines <contributor-guidelines.rst>`_ (also from
-* original
+  original
   http://php.net/mailing-lists.php and
   http://git.php.net/?p=php-src.git;a=blob_plain;f=README.MAILINGLIST_RULES;hb=HEAD)
   files
