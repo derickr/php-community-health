@@ -33,14 +33,14 @@ Encouraged Behaviour
 
 Examples of encouraged behaviour include:
 
-- Respectful discourse of disagreements around new features, changes, and
+- Discuss and disagree respectfully concerning new features, changes, and
   technical implementations (e.g. discussing any RFC)
 - Objective and qualified responses regarding why features or their
   implementations are lacking or otherwise not suitable
-- Mentoring of newcomers to the project
+- Mentor newcomers to the project
 - Behave professionally
 - Exercise consideration of the many different world views present and be
-  respectful in your speech and actions
+  respectful of them in your speech and actions
 - Attempt collaboration before conflict, and attempt to improve upon ideas
   presented, rather than dismissing them
 
