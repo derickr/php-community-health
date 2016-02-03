@@ -55,10 +55,10 @@ Unacceptable Behaviour
 
 Examples of unacceptable behaviour by participants include:
 
-- The use of sexualized language or imagery
-- Personal attacks
-- Trolling or insulting/derogatory comments
-- Public or private harassment relating to project concerns
+- The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
 - Publishing other's private information, such as physical or electronic
   addresses, without explicit permission (AKA doxing) 
 - Coercing other members to vote for a particular option on an RFC, or to
@@ -69,16 +69,15 @@ Examples of unacceptable behaviour by participants include:
 Application of the Code of Conduct
 ----------------------------------
 
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
 Project maintainers have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviours that they deem 
 threatening, offensive, or harmful.
-
-By adopting this Code of Conduct, project maintainers commit themselves to
-fairly and consistently applying these principles to every aspect of managing
-this project. Project maintainers who do not follow the Code of Conduct may be
-permanently removed from the project team.
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community —
