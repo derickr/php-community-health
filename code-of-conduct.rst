@@ -92,7 +92,3 @@ complaints will be reviewed and investigated as outlined
 necessary and appropriate to the circumstances. Maintainers are obligated to
 maintain confidentiality with regard to both the reporter of an incident, and
 the accused, and expect all parties to assist in ensuring this.
-
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
