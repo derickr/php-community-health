@@ -21,7 +21,7 @@ world wide, regardless of level of experience, gender, gender identity and
 expression, sexual orientation, disability, personal appearance, body size, 
 race, ethnicity, age, religion, or nationality. As project maintainers we 
 are committed to making participation in this project a comfortable experience 
-for everyone,
+for everyone.
 
 The goal of this code of conduct is to give a clear signal what is expected of
 contributors and project maintainers, regarding their conduct in discussions
