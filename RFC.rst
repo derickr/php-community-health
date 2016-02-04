@@ -3,7 +3,7 @@ PHP RFC: Adopt Code Of Conduct
 ==============================
 
   * Version: 0.6-dev
-  * Date: 2016-01-20
+  * Date: 2016-02-03
   * Author: Derick Rethans <derick@php.net>
   * Original Author: Anthony Ferrara <ircmaxell@php.net>
   * Status: Open
@@ -14,6 +14,14 @@ Introduction
 
 This RFC proposes that the PHP project should adopt a formal code of conduct
 for its members.
+
+PHP is a widely-used open source general-purpose scripting language that is 
+especially suited for web development. It is used by millions of developers 
+world wide, regardless of level of experience, gender, gender identity and 
+expression, sexual orientation, disability, personal appearance, body size, 
+race, ethnicity, age, religion, or nationality. As project maintainers we 
+are committed to making participation in this project a comfortable experience 
+for everyone.
 
 The goal of this code of conduct is to give a clear signal what is expected of
 contributors and project maintainers, regarding their conduct in discussions
