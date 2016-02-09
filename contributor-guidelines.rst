@@ -41,9 +41,14 @@ and other related discussions:
 * Write as much as is necessary, but as little as you can get away with.
 * Not everyone that will read your post is a native English speaker, try to
   use simple words where possible.
-* Debate the technical issues, and never attack a person's opinion. People
-  will disagree, so be it.
-* Suggest improvements to the RFC, don't just shoot it down. When disagreeing,
+* Debate the technical issues, and ideas behind them, but never attack the
+  person holding them. People will disagree, so be it.
+* When you disagree with a certain proposal, try to think whether there are
+  changes that can be made to the RFC that will enable you to
+  support it. If you come up with such improvements, respectfully propose them
+  to the RFC author to try and evolve the idea into a better one. Only resort
+  towards arguing against the RFC if you think it's a bad idea and you can
+  think of no ways to improve it.  When disagreeing,
   provide substantial reason instead of just saying "no". Try to outline
   specific points you disagree with and suggest ways of improvement. And
   remember, you can suggest improvements to an RFC even if you would not vote
@@ -57,7 +62,7 @@ and other related discussions:
 And here are a few things you should avoid while discussing features and other
 technical content:
 
-* Don't use hyperbole to defend your arguments.
+* Try to avoid hyperbole to defend your arguments.
 * Do not post when you are angry. Any post can wait a few hours. Review
   your post after a good breather or a good nights sleep. From this follows:
   Don't send a "quick email", especially during a heated debate.
@@ -89,8 +94,8 @@ largest group of people without annoying them regarding form and layout.
 Realise that people can not always use the same email client, and that there
 is long standing etiquette to improve communication.
 
-- Please configure your email client to use a real name and keep message
-  signatures to a maximum of 2 lines if at all necessary.
+- Please configure your email client to use a real name.
+- Please keep message signature short. Don't add legal disclaimers.
 - Do not top post. Place your answer underneath anyone you wish to quote
   and remove any previous comment that is not relevant to your post. There is
   a great guide at https://www.netmeister.org/news/learn2quote.html
