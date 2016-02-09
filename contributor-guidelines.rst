@@ -41,8 +41,9 @@ and other related discussions:
 * Write as much as is necessary, but as little as you can get away with.
 * Not everyone that will read your post is a native English speaker, try to
   use simple words where possible.
-* Debate the technical issues, and ideas behind them, but never attack the
-  person holding them. People will disagree, so be it.
+* Debate the proposal, not the person. Frank and critical discussion of ideas 
+  improve collaboration, whilst personal attacks and innuendos only detract 
+  from the process.
 * When you disagree with a certain proposal, try to think whether there are
   changes that can be made to the RFC that will enable you to
   support it. If you come up with such improvements, respectfully propose them
