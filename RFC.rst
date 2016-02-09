@@ -12,8 +12,8 @@ PHP RFC: Adopt Code Of Conduct
 Introduction
 ============
 
-This RFC proposes that the PHP project should adopt a formal code of conduct
-for its members.
+This RFC proposes that the PHP project should adopt Contributing Guidelines
+and a formal Code of Conduct for its members.
 
 PHP is a widely-used open source general-purpose scripting language that is 
 especially suited for web development. It is used by millions of developers 
@@ -23,28 +23,25 @@ race, ethnicity, age, religion, or nationality. As project maintainers we
 are committed to making participation in this project a comfortable experience 
 for everyone.
 
-The goal of this code of conduct is to give a clear signal what is expected of
-contributors and project maintainers, regarding their conduct in discussions
-on mailing lists, and other related communication channels. More specifically,
-the expected conduct in discussing language improvements and changes through
-the RFC process.
+The goal of the Contributor Guidelines and Code of Conduct is to give a clear
+signal what is expected of contributors and project maintainers, regarding
+their conduct in discussions on mailing lists, and other related communication
+channels. More specifically, the expected conduct in discussing language
+improvements and changes through the RFC process.
 
 This proposal consists of several parts:
 
-* The goal of the documents (this part)
-* Contributor `Guidelines <contributor-guidelines.rst>`_ (also from
-  original
-  http://php.net/mailing-lists.php and
-  http://git.php.net/?p=php-src.git;a=blob_plain;f=README.MAILINGLIST_RULES;hb=HEAD)
-  files
-* A general `Code of Conduct <code-of-conduct.rst>`_, which provides a general
-  overview on what constitutes as unacceptable behaviour
-* A `Contributor Mediation Team <mediation.rst>`_ to assess and act upon the
-  complaints as received through the above procedures
-* A set of `procedures <procedures.rst>`_ to follow if individuals wish to
+- The goal of the documents (this part).
+- Contributor `Guidelines <contributor-guidelines.rst>`_, to decrease toxicity
+  and improve collaboration.
+- A more formal `Code of Conduct <code-of-conduct.rst>`_, which provides a
+  general overview on what constitutes as unacceptable behaviour.
+- A set of `procedures <procedures.rst>`_ to follow if individuals wish to
   make complaints if other project members do not follow either the Code of
   Conduct or the Constructive Collaboration Guidelines.
-* A set of `examples <examples.rst>`_ and thought experience on good and bad
+- The creation of a  `Contributor Mediation Team <mediation.rst>`_ to assess
+  and act upon the complaints as received through the above procedures
+- A set of `examples <examples.rst>`_ and thought experience on good and bad
   behaviour.
 
 Updating Code Of Conduct
