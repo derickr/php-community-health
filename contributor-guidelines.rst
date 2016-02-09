@@ -26,7 +26,7 @@ following some basic rules with regards to mailinglist usage will:
   itself.
 * Help in making sure we all use our time more efficiently.
 * Prevent you from making a fool of yourself in public.
-* Increase the general level of good will on planet Earth.
+* Increase the general level of goodwill on planet Earth.
 
 Below are several suggestions on how to provide constructive criticism on RFC
 and other related discussions:
