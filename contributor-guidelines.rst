@@ -77,7 +77,7 @@ technical content:
 * If you notice that your posting ratio is much higher than that of other
   people, double check the above rules. Try to wait a bit longer before
   sending your replies to give other people more time to digest your answers;
-  more importantly this will ensure that your current position is aggrgated
+  more importantly this will ensure that your current position is aggregated
   into a single email instead of multiple ones.
 * Consider taking a step back from a very active thread now and then. Maybe
   talking to some friends and fellow developers will help in understanding
