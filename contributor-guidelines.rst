@@ -1,7 +1,7 @@
 Contributor Guidelines
 ======================
 
-This is a collection of suggests on how to improve communication and
+This is a collection of suggestions on how to improve communication and
 collaboration. About two thirds of this is reworked from the ancient wisdoms
 as encoded in http://php.net/mailing-lists.php and
 http://git.php.net/?p=php-src.git;a=blob_plain;f=README.MAILINGLIST_RULES;hb=HEAD
@@ -13,22 +13,22 @@ This section presents a loose collection of guidelines that focus on
 encouraging constructive feedback on language proposals (RFCs) and other email
 threads. RFCs are used to introduce new features into the language. In some
 cases, discussions could benefit from more focus on collaborative improvements
-to an RFC, instead of comments to the tune of "I don't like it". The RFC
-process is primarily designed to improve RFCs, and by extend, PHP, before they
-are put up to vote. Even though you might incline to vote no on an RFC, you
-can still actively act to make the RFC and feature better.
+to an RFC, instead of comments to the tune of, "I don't like it". The RFC
+process is primarily designed to improve RFCs, and by extension, PHP, before they
+are put to a vote. Even though you might be inclined to vote "no" on an RFC, you
+can still provide feedback to make the RFC and feature better.
 
 PHP is developed through the efforts of a large number of people.
-Collaboration is a Good Thing™, and mailinglists lets us do this. Thus,
-following some basic rules with regards to mailinglist usage will:
+Collaboration is a Good Thing™, and mailing lists are the collaboration platform.
+Thus, following some basic rules with regards to mailing list usage will:
 
-* Make everybody happier, especially those responsible for developing PHP
+* Make everyone happier, especially those responsible for developing PHP
   itself.
 * Help in making sure we all use our time more efficiently.
 * Prevent you from making a fool of yourself in public.
 * Increase the general level of goodwill on planet Earth.
 
-Below are several suggestions on how to provide constructive criticism on RFC
+Below are several suggestions on how to provide constructive criticism on RFCs
 and other related discussions:
 
 * Respect other people working on the project.
@@ -36,8 +36,8 @@ and other related discussions:
   that strives to be very open. The flip side is that the core developers
   are faced with a lot of requests. Make sure that you have done your
   research before posting to the entire developer community.
-* Write clear and unambiguous prose. It is better to be descriptive than to be
-  concise.
+* Write as clearly and unambiguously as you can. It is better to be descriptive
+  than to be concise.
 * Write as much as is necessary, but as little as you can get away with.
 * Not everyone that will read your post is a native English speaker, try to
   use simple words where possible.
@@ -49,8 +49,8 @@ and other related discussions:
   support it. If you come up with such improvements, respectfully propose them
   to the RFC author to try and evolve the idea into a better one. Only resort
   towards arguing against the RFC if you think it's a bad idea and you can
-  think of no ways to improve it.  When disagreeing,
-  provide substantial reason instead of just saying "no". Try to outline
+  think of no ways to improve it.  When disagreeing, provide substantial reasons
+  against the RFC instead of just saying "no". Try to outline
   specific points you disagree with and suggest ways of improvement. And
   remember, you can suggest improvements to an RFC even if you would not vote
   to support the RFC.
@@ -76,10 +76,9 @@ technical content:
   have never met persons in real life.
 * If you notice that your posting ratio is much higher than that of other
   people, double check the above rules. Try to wait a bit longer before
-  sending your replies to give other people more time to digest your answers
-  and more importantly give you the opportunity to make sure that you
-  aggregate your current position into a single mail instead of multiple
-  ones.
+  sending your replies to give other people more time to digest your answers;
+  more importantly this will ensure that your current position is aggregated
+  into a single email instead of multiple ones.
 * Consider taking a step back from a very active thread now and then. Maybe
   talking to some friends and fellow developers will help in understanding
   the other opinions better. Go discuss it with your local user group.
