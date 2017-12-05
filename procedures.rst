@@ -54,8 +54,9 @@ Reasonable Person Test
 ----------------------
 
 To determine if the incident is a violation or not, the Community Mediation
-Team shall use the
-[[https://en.wikipedia.org/wiki/Reasonable_person|Reasonable Person Test]]. 
+Team shall use the `Reasonable Person Test`_.
+
+.. _`Reasonable Person Test`: https://en.wikipedia.org/wiki/Reasonable_person
 
 The following four points shall be taken into account for any incident:
 
